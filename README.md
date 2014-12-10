@@ -1,4 +1,1 @@
-Mayor_of_Brightscript
-=====================
-
-repository for brightscript stuff I want to share.
+I wanted to be able to generate dynamic textures within brightscript, so I started messing with this. 
